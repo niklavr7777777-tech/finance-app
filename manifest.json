@@ -1,0 +1,12 @@
+{
+  "background_color": "#0a0b10",
+  "description": "Учет доходов и расходов",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ФинКонтроль",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ФинКонтроль",
+  "start_url": "/",
+  "theme_color": "#f09a5c"
+}
